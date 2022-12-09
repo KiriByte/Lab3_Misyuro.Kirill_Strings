@@ -1,0 +1,15 @@
+H:\Projects\Lab3_Misyuro.Kirill_Strings\bin\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.exe
+H:\Projects\Lab3_Misyuro.Kirill_Strings\bin\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.deps.json
+H:\Projects\Lab3_Misyuro.Kirill_Strings\bin\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.runtimeconfig.json
+H:\Projects\Lab3_Misyuro.Kirill_Strings\bin\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.dll
+H:\Projects\Lab3_Misyuro.Kirill_Strings\bin\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.pdb
+H:\Projects\Lab3_Misyuro.Kirill_Strings\obj\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.csproj.AssemblyReference.cache
+H:\Projects\Lab3_Misyuro.Kirill_Strings\obj\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\Lab3_Misyuro.Kirill_Strings\obj\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.AssemblyInfoInputs.cache
+H:\Projects\Lab3_Misyuro.Kirill_Strings\obj\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.AssemblyInfo.cs
+H:\Projects\Lab3_Misyuro.Kirill_Strings\obj\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.csproj.CoreCompileInputs.cache
+H:\Projects\Lab3_Misyuro.Kirill_Strings\obj\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.dll
+H:\Projects\Lab3_Misyuro.Kirill_Strings\obj\Debug\net7.0\refint\Lab3_Misyuro.Kirill_Strings.dll
+H:\Projects\Lab3_Misyuro.Kirill_Strings\obj\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.pdb
+H:\Projects\Lab3_Misyuro.Kirill_Strings\obj\Debug\net7.0\Lab3_Misyuro.Kirill_Strings.genruntimeconfig.cache
+H:\Projects\Lab3_Misyuro.Kirill_Strings\obj\Debug\net7.0\ref\Lab3_Misyuro.Kirill_Strings.dll
